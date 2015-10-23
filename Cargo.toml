@@ -12,3 +12,6 @@ path = "src/hello_world.rs"
 name = "guess_num"
 path = "src/guess_num.rs"
 
+[[bin]]
+name = "dining"
+path = "src/dining_philosophers.rs"
